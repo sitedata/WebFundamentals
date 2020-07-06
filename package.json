@@ -50,7 +50,7 @@
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "moment": "^2.14.1",
-    "parse-diff": "^0.4.0",
+    "parse-diff": "^0.7.0",
     "remark": "^6.2.0",
     "remark-html": "^5.1.0",
     "remark-lint": "^5.4.0",
